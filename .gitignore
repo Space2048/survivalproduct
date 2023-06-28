@@ -1,0 +1,4 @@
+
+survival_server/src/conf/config.py
+survival_server/src/test.py
+*.pyc
